@@ -1,0 +1,15 @@
+POST http://localhost:8080/api/IDojoApi/GetDistance
+
+["TW18 3EY"]
+
+###
+
+POST http://localhost:8080/api/IDojoApi/GetCrimes
+
+["TW18 3EY"]
+
+###
+
+POST http://localhost:8080/api/IDojoApi/GetWeather
+
+["TW18 3EY"]
